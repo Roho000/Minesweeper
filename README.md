@@ -1,4 +1,4 @@
 # Minesweeper
-minesweeper game
+# Minesweeper game
 
 Minesweeper game made using C++
