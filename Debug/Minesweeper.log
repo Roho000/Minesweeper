@@ -1,34 +1,34 @@
 ﻿  main.cpp
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(108): warning C4018: '<': signed/unsigned mismatch
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(112): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(163): warning C4018: '<': signed/unsigned mismatch
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(164): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(169): warning C4018: '<': signed/unsigned mismatch
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(170): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(193): warning C4018: '<': signed/unsigned mismatch
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(194): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(202): warning C4018: '<': signed/unsigned mismatch
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(203): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(303): warning C4018: '<': signed/unsigned mismatch
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(304): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(305): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(308): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(307): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(372): warning C4018: '<': signed/unsigned mismatch
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(373): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(374): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(380): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(385): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(387): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(379): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(384): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(386): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(395): warning C4018: '<': signed/unsigned mismatch
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(396): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(397): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(402): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(405): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(409): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(413): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(417): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(421): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(425): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(429): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(433): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(401): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(404): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(408): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(412): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(416): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(420): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(424): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(428): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(432): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(473): warning C4018: '<': signed/unsigned mismatch
 c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(474): warning C4018: '<': signed/unsigned mismatch
-c:\users\rohan\documents\c++\visual studio 2017\projects\minesweeper\minesweeper\main.cpp(475): warning C4018: '<': signed/unsigned mismatch
   Minesweeper.vcxproj -> C:\Users\rohan\Documents\C++\Visual Studio 2017\Projects\Minesweeper\Debug\Minesweeper.exe
