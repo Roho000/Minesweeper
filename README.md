@@ -1,3 +1,3 @@
 # Minesweeper
 
-Minesweeper game made using C++
+Minesweeper game made using C++.
