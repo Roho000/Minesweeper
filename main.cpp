@@ -119,9 +119,9 @@ void randomMines(vector<int> &x) {
 }
 
 void floodfill(vector<vector<Tile>> &vec, int r, int c) {
-	if (inBounds(vec, r, c) && vec[r][c].getNum() == 0 && !vec[r][c].getClicked()) {
+	if (inBounds(vec, r, c) && vec[r][c].getNum() == 0 
+		&& !vec[r][c].getClicked()&&!vec[r][c].getFlag()) {
 		vec[r][c].setClicked();
-		vec[r][c].setFlagX(false);
 		floodfill(vec, r - 1, c - 1);
 		floodfill(vec, r - 1, c);
 		floodfill(vec, r - 1, c + 1);
@@ -133,7 +133,6 @@ void floodfill(vector<vector<Tile>> &vec, int r, int c) {
 	}
 	else if (inBounds(vec, r, c) && vec[r][c].getNum() != 0 && vec[r][c].getNum() != -1) {
 		vec[r][c].setClicked();
-		vec[r][c].setFlagX(false);
 	}
 }
 
